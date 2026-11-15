@@ -1,6 +1,6 @@
 cask "solara" do
-  version "0.3.5"
-  sha256 "37055b7c1f1ff1e1a9539a4909f8c138a296fb8e83ec0575be8177ce42807f4a"
+  version "0.4.0"
+  sha256 "638d5ee240678a65a5e99a8d2e84d584047c077c3537cd4d28ce8a43988c235a"
 
   url "https://github.com/andrewbenson/solara/releases/download/v#{version}/Solara-#{version}.dmg"
   name "Solara"
